@@ -1,5 +1,5 @@
 
-# EternalBlue MS17-010 Exploit Lab
+# EternalBlue MS17-010 Lab Writeup
 
 ### Lab Summary
 This lab demonstrates exploitation of the MS17-010 SMB vulnerability (EternalBlue) on a Windows 7 system, gaining a remote shell and upgrading it to a Meterpreter session.
