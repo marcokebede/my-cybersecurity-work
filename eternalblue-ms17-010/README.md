@@ -31,4 +31,16 @@ use post/multi/manage/shell_to_meterpreter
 set SESSION <session-id>
 run
 
- 
+ ### Lessons Learned
+
+- Importance of patching SMB vulnerabilities  
+- Using post-exploitation modules to improve session capabilities  
+- Basics of Windows privilege escalation paths (next steps after shell)
+
+---
+
+### Next Steps
+
+- Explore privilege escalation  
+- Harvest credentials  
+- Persistence techniques
