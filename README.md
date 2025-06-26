@@ -30,7 +30,11 @@ Details and step-by-step process can be found in the lab writeup below.
 
 ---
 
-## marcokebede@gmail.com
-
 Feel free to reach out via LinkedIn or email!
+
+## marcokebede@gmail.com
+Connect with me on [LinkedIn](https://www.linkedin.com/in/zelalem-kebede-453378348)
+
+
+
 
