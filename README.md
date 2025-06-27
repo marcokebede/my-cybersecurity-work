@@ -1,9 +1,8 @@
-# my-cybersecurity-work
-My hands-on cybersecurity labs, tools, writeups, and notes portfolio.
 # Cybersecurity Portfolio
 
-Welcome to my cybersecurity portfolio!  
-Here I document hands-on labs, tools, and techniques I have practiced and mastered.  
+My hands-on cybersecurity labs, tools, writeups, and notes portfolio.
+
+Here I document hands-on labs, tools, and techniques I have practiced  
 
 ---
 
