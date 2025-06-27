@@ -12,7 +12,7 @@ The goal was to identify the file that defaced the website `imreallynotbatman.co
 - **Cross-referencing timestamps and file names** to confirm the defacement file.
 
 ---
-![Splunk log showing defacement file](image-redacted_dot_app (16).png)
+![Splunk log showing defacement file] splunk-defacement.png
 
 
 ## Step-by-Step Process
