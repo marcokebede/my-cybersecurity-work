@@ -36,8 +36,6 @@ SHA256: 99958e145afe69a59b0...
 
 CRC32: 65d2xxxx (partial)
 
-Screenshot
-
 
 ![Wireshark HTTP JPEG Extraction and Hash Validation](jpeg-http-extraction.png)
 
