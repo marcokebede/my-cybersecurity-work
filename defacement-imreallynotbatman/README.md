@@ -16,6 +16,7 @@ The goal was to identify the file that defaced the website `imreallynotbatman.co
 
 
 
+
 ## Step-by-Step Process
 
 1. Accessed Splunk dashboard connected to the web server logs.
