@@ -1,4 +1,3 @@
-
 # Defacement Challenge — imreallynotbatman.com
 
 ## Challenge Overview  
@@ -20,14 +19,27 @@ The goal was to identify the file that defaced the website `imreallynotbatman.co
 
 2. Ran search queries to filter for unusual HTTP requests or file uploads around the suspected time of defacement, for example:
 
-index=web_logs sourcetype=access_combined
-| search uri="/poisonivy-is-coming-for-you-batman.jpeg"
-
-
-
 
 3. Identified the file name `poisonivy-is-coming-for-you-batman.jpeg` in the logs, indicating it was accessed or uploaded during the defacement event.
 
 4. Verified the file presence on the server or web directory.
 
 5. Confirmed this was the defacement file based on the log evidence and file name.
+
+---
+
+## Lessons Learned
+
+- Log analysis is critical in identifying security incidents such as web defacements.  
+- Splunk’s powerful query language allows for efficient filtering of large log datasets.  
+- Correlating log data with file system checks provides strong evidence for incident verification.
+
+---
+
+## Next Steps
+
+- Develop automated Splunk alerts to detect unusual file uploads or modifications in real-time.  
+- Investigate other web server logs for potential related activity.  
+- Study web application security measures to prevent unauthorized file uploads and defacements.
+
+
