@@ -9,6 +9,7 @@ I used Splunk to pivot from the `x509` log to the `files` log using the certific
 ## Commands Used
 
 ```splunk
+
 index=ctf path=x509 example.com
 This returned certificate metadata, including the id field (e.g., FNZ7Z22WzAofFQvsZf).
 
@@ -19,6 +20,4 @@ This let me pivot to the files log and extract the SHA1 hash.
 Result
 Final SHA1 hash:
 
-Copy
-Edit
 19594b811f9f867db68efabcc7135852e63fd7da
