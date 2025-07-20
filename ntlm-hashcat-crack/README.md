@@ -18,7 +18,7 @@ Prepare the Hash File Saved the target NTLM hash in a text file named hash1.txt.
 
 Run Hashcat Executed the cracking process with the following command:
 
-hashcat -m 1000 -a 0 ~/Hashing-Basics/Task-6/hash1.txt /usr/share/wordlists/rockyou.txt
+hashcat -m 1000 -a 0 hash1.txt /usr/share/wordlists/rockyou.txt
 
 Crack Success
 
