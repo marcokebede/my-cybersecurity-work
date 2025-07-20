@@ -34,7 +34,7 @@ Wordlist: rockyou.txt
 
 Runtime: 2 seconds
 
-Verified Result Displayed cracked password using: hashcat --show -m 1000 ~/Hashing-Basics/Task-6/hash1.txt
+Verified Result Displayed cracked password using: hashcat --show -m 1000 hash1.txt
 
 Hashcat cracked NTLM hash
 
