@@ -31,7 +31,6 @@ use post/multi/manage/shell_to_meterpreter
 set SESSION <session-id>
 run
 
-![Metasploit EternalBlue session](msf-eternalblue.png)
 
 
  ### Lessons Learned
