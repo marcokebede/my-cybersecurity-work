@@ -10,7 +10,9 @@ RockYou Wordlist: A widely-used dictionary of leaked passwords.
 
 Linux Terminal: Used to execute commands and analyze output.
 
-Step-by-Step Process Identify Hash Type The NTLM hash was detected based on its format. NTLM corresponds to Hashcat mode 1000.
+Step-by-Step Process Identify Hash Type 
+
+The NTLM hash was detected based on its format. NTLM corresponds to Hashcat mode 1000.
 
 Prepare the Hash File Saved the target NTLM hash in a text file named hash1.txt.
 
