@@ -1,4 +1,4 @@
-Password Cracking with Hashcat — NTLM Hash Challenge Overview
+
 
 This lab demonstrates how to crack NTLM password hashes using Hashcat,
 
