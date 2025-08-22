@@ -1,4 +1,4 @@
-# X.509 Certificate Analysis with Splunk
+
 
 This project demonstrates how to identify and verify the most recent X.509 certificate using Splunk logs from a CTF challenge.
 
